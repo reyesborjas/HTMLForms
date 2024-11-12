@@ -26,3 +26,9 @@ margin-top: 25px;
 .form {
     height:50% ;
 }
+
+.submitorcancel {
+    margin-left: auto;
+    display: flex;
+    justify-content: end;
+}
